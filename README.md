@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was hosted at https://andjelka-for-crew-plan.netlify.app/ 
+
+I done this application for practicing React and Redux, and I also learned how to use Firebase. 
+
+The application has Login and Signup forms and displays your initials in the right corner. You can make a list of the plans by adding a title and a description of the plan. Your plan can see everyone who is registered in the application, so it is ideal for group plans.
+
 
 ## Available Scripts
 
